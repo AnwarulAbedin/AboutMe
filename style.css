@@ -5,3 +5,10 @@ big {
 body{
   background-color:#59e5fa;
 }
+h1{
+  text-align:center;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
