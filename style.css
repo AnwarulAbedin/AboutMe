@@ -1,19 +1,23 @@
 h1{
   text-align:left;
   text-decoration:underline;
+  font-family:Sans-serif;
 }
 u{
   color:#1000ea;
 }
 p{
   text-align:left;
+  font-family:Serif;
 }
 h2{
   text-align: left;
   text-decoration: underline;
+  font-family:Sans-serif;
 }
 h3{
   text-align:center;
   color:blue;
   text-decoration: black underline;
+  font-family:Sans-serif;
 }
