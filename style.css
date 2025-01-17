@@ -3,6 +3,7 @@ h1{
   text-align:center;
   font-family:Sans-Serif;
   border:2px solid black;
+  border-radius:12px;
   background-color:white;
   padding-top:2px;
   padding-bottom:2px;
@@ -34,4 +35,8 @@ h3{
 }
 body{
   background-color:white;
+}
+h4{
+  border:2px solid black;
+  border-radius:12px;
 }
